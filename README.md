@@ -24,7 +24,7 @@ This project was created on Code.org's JavaLab platform using the built in Neigh
 
 1. Describe your project.
 
-   - Write your response here...
+   - This project takes the logo for Stanford University
 
 2. What are two things about your project that you are proud of?
 
